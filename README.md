@@ -5,8 +5,8 @@ My current aim is to be building work towards a convergence point of visual cult
 Looking to work on fun projects with creative people.
 
 ## 🌋
-### JS
-- React + Next + Vue + D3
+### Web
+- JavaScript + CSS + HTML + React + Next + Vue + D3
 ### Creative Code
 - Processing + p5 + Arduino
 ### AR / VR / 3D
