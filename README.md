@@ -8,7 +8,7 @@ My current aim is to be building work towards a convergence point of visual cult
 
 Looking to work on fun projects with creative people.
 
-:earth_americas:
+## :earth_americas:
 :runner:Run, :bike:Bike,  :evergreen_tree:Hike,  :movie_camera:Films, :stew:Eat
 
 
