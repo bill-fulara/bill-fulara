@@ -8,7 +8,7 @@ Looking to work on fun projects with creative people.
 ### JS
 - React + Next + Vue + D3
 ### Creative Code
-- Processing + p5 + touchDesigner
+- Processing + p5
 ### AR / VR / 3D
 - spark ar + R3F + three.js + ARkit + Blender
 
