@@ -1,14 +1,16 @@
-## Howdy, I'm Bill
-## Front End Developer | p5.js Enthusiast | React Specialist
+## Howdy, 
+## I'm Bill
+## Creative Technologist
 
-Stoked to be shaping dynamic UIs using React while exploring the creative possibilities of p5.js for creative exploration with code.
+My development experience is a mix of building out large-scale front end applications and playful experimentation with creative coding. 
 
-### Toolbox:
-- React: Component-based UI development
-- p5.js: Creative coding & interactive visuals
-- HTML5, CSS3, JavaScript (ES6+)
-- Responsive Design & Cross-browser Compatibility
-- Git & Version Control
+My current aim is to be building work towards a convergence point of visual culture, movement, and digital experimentation.
+
+Looking to work on fun projects with creative people.
+
+:earth_americas:
+:runner:Run, :bike:Bike,  :evergreen_tree:Hike,  :movie_camera:Films, :stew:Eat
+
 
 ### Notable Projects:
 - coming soon...
