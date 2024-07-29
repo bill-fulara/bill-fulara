@@ -13,7 +13,7 @@ Looking to work on fun projects with creative people.
 - spark ar + R3F + three.js + ARkit + Blender
 
 ## :earth_americas:
-:runner:Run, :bicyclist:Bike,  :evergreen_tree:Hike,  :movie_camera:Films, :stew:Eat
+:runner:Run, :movie_camera:Films
 
 
 ### Notable Projects:
